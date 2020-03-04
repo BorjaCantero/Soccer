@@ -1,2 +1,2 @@
-# Soccer
-First project VC - FIB
+# VC LABS
+VC Projects - FIB
